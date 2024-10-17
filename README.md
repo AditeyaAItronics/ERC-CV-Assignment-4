@@ -15,3 +15,7 @@ Welcome to our computer vision-based game! In this game, enemy objects are falli
 Features
 - Real-time Hand Tracking: Uses computer vision to detect and track hand movements.
 - Interactive Gameplay: Avoid falling enemy objects using your hand.
+
+# Virtual Environment Details
+
+I have created a conda environment conda create -n my_conda_env_name python=3.12.4 anaconda and then have installed opencv_python-4.10.0 along with mediapipe-0.10.14 in my conda environment. All coding has been done from my VS code editor
