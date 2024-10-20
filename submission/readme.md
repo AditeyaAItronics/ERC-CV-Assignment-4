@@ -1,5 +1,7 @@
 # Assignment Deyails
 
+## Virtual Environment Details
+I have created a conda environment conda create -n my_conda_env_name python=3.12.4 anaconda and then have installed opencv_python-4.1
 
 ## First Solution 
 
